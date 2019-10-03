@@ -1,0 +1,16 @@
+
+#cList{
+  overflow: scroll;
+  height: 100vh;
+}
+#cList li {
+  list-style: none;
+  margin: .5rem 0;
+  padding: .5rem;
+}
+nav {
+  background: blue;
+  color: #fff;
+  padding: .2rem;
+  margin: 0;
+}
